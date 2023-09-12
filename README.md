@@ -1,6 +1,6 @@
-# React + Vite
+# Framer Motion React tutorial (Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tutorial from: https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i
 
 Currently, two official plugins are available:
 
